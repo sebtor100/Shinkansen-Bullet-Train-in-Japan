@@ -43,3 +43,5 @@ Accuracy Score: The evaluation metric is simply the percentage of predictions ma
  
 In other words, the best possible accuracy is 100% (or 1), and the worst possible accuracy 0%. 
 
+# Validation Accuracy Final Model: 0.9528501801229073
+
